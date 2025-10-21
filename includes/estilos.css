@@ -1,0 +1,22 @@
+.cabecera{
+	margin: 0 auto;
+	color:red;
+	width:50%;
+}
+
+.pie{
+	margin: 0 auto;
+	/*color:#563214;*/
+	width:50%;
+	padding-top:20px;
+}
+
+section{
+	margin: 0 auto;
+	/*color:#563214;*/
+	width:50%;
+}
+
+table,  tr{
+	border:1px solid;
+}
